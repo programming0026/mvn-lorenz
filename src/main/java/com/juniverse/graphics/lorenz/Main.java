@@ -5,7 +5,7 @@ import javax.swing.SwingUtilities;
 /**
  * Abre la ventana con el atractor de Lorenz.
  *
- * @author linux
+ * @author Java Universe
  */
 public class Main {
 

@@ -13,7 +13,7 @@ import javax.swing.JPanel;
  * Dibuja el atractor de Lorenz (σ = 10, ρ = 28, β = 8/3) integrando sus ecuaciones con el método de Euler.
  * Se trazan tres trayectorias que empiezan casi en el mismo punto y terminan separándose (efecto mariposa).
  *
- * @author linux
+ * @author Java Universe
  */
 public class Lorenz extends JPanel {
 
